@@ -1,3 +1,0 @@
-
-Working in DevOps
-
